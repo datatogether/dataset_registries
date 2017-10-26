@@ -1,5 +1,10 @@
 Dataset Registries
 ========
+<!-- Repo Badges for: Github Project, Slack, License-->
+
+[![GitHub](https://img.shields.io/badge/project-Data_Together-487b57.svg?style=flat-square)](http://github.com/datatogether)
+[![Slack](https://img.shields.io/badge/slack-Archivers-b44e88.svg?style=flat-square)](https://archivers-slack.herokuapp.com/)
+[![License](https://img.shields.io/github/license/mashape/apistatus.svg)](./LICENSE) 
 
 > Creating Registries of all these Rescued Datasets
 
@@ -20,4 +25,4 @@ Short version of the roadmap:
 
 ## Current Status
 
-We are currently in the initial design phase of this work.   
+Work on this project is stalled. We are still in the initial design phase of this work.
