@@ -1,1 +1,0 @@
-Creative Commons Share Alike (do whatever, just attribute the [contributors](https://github.com/edgi-govdata-archiving/dataset-registries/graphs/contributors)) http://creativecommons.org/licenses/by-sa/2.0/
